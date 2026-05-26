@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunwarutkarsh-kant-mishra)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunutk03@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaegar03)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/akhetaK/)
 
 </div>
 
@@ -85,6 +86,30 @@ class AIEngineer:
 [![DEEPEX](https://github-readme-stats.vercel.app/api/pin/?username=Jaegar03&repo=DEEPEX&theme=chartreuse-dark&hide_border=true&bg_color=0a0e14&title_color=00E5A0&text_color=e2eaf6&icon_color=0ea5e9)](https://github.com/Jaegar03/DEEPEX)
 
 </div>
+
+---
+
+## ⚡ LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/akhetaK?theme=dark&font=JetBrains_Mono&ext=heatmap&border=0&radius=12&width=500)](https://leetcode.com/u/akhetaK/)
+
+</div>
+
+<div align="center">
+
+| 🏆 Rank | 🎯 Contest Rating | 🌍 Global Rank | ✅ Solved | 🔥 Max Streak | 🏅 Badges |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **54,757** | **1,492** | **404,953** | **830 / 3944** | **🔥 639 days** | **30** |
+
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📅 Active Days | 🏆 Top |
+|:---:|:---:|:---:|:---:|:---:|
+| 219 / 946 | 467 / 2061 | 144 / 937 | 363 | **46.78%** |
+
+</div>
+
+> 🔄 *Stats card auto-updates on every profile view via [leetcard.jacoblin.cool](https://leetcard.jacoblin.cool)*
 
 ---
 
